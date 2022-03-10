@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MY MESSENGER</string>
+
+    <string name="hint">Escribe un mensaje</string>
+    <string name="send">Enviar mensaje</string>
+    <string name="title_activity_receive_message">ReceiveMessageActivity</string>
+
+
+</resources>
